@@ -21,7 +21,7 @@ const About = ({setPlayState}) => {
         <p>
         I Graduated Graduation was the most important day in my life. I waited for this amazing day for twelve years to reach my dream and move on to college. For most people, graduation is a memorable day. It is hard for me to forget it even after a hundred years. The day I woke up realizing it was my graduation day, I was smiling all day long knowing that I had made my family proud of me. I remember everything about my graduation day: my party, cake, dress, makeup, hair, cap and gown, and the gifts I got from family and friends.        </p>
 
-      </div>
+      </div> 
     </div>
   );
 }
